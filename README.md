@@ -1,6 +1,6 @@
 # Async-Race
 
-This is an app created for the Rolling Scopes School Task
+This is an app created for the Rolling Scopes School Task to practice working with backend data and Promises
 
 App screenshot:
 
