@@ -8,7 +8,7 @@ This is an app created for the Rolling Scopes School Task to practice working wi
 
 
 **Task**
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md
+[https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md](https://github.com/022022/Async-Race/blob/main/CompleteTaskDescription.md)
 
 
 **Requirements met**
