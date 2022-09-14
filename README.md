@@ -2,6 +2,9 @@
 
 This is an app created for the Rolling Scopes School Task
 
+App screenshot:
+![image](https://user-images.githubusercontent.com/99475472/183705194-7f8ab69b-46a6-402d-8e57-49c07780aea3.png)
+
 Task:
 https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md
 
