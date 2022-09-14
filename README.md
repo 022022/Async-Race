@@ -2,15 +2,16 @@
 
 This is an app created for the Rolling Scopes School Task to practice working with backend data and Promises
 
-App screenshot:
+**App screenshot**
 
 ![image](https://user-images.githubusercontent.com/99475472/190131899-888fc354-0c63-45fa-bf5c-f1419b8c2f3e.png)
 
 
-Task:
+**Task**
 https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md
 
-Requirements met:
+
+**Requirements met**
 Максимальный балл за задание +150
 
 - [x] (+40) Application is divided to logical modules / layers. Like working with api it's separate module, as well as working with UI rendering, or working with an application state, etc. Better discuss architecture with a mentor before implementing.
@@ -22,15 +23,20 @@ Requirements met:
 - [x] (+5) There are not unnecessary code duplications.
 - [x] (+5) Code shouldn't contain magical numbers or strings.
 
-Deploy:
+
+**Deploy**
+
 https://022022.github.io/Async-Race/
+
 to preview, backend should be cloned and started locally
 https://github.com/022022/async-race-api
 
 
-Code:
+**Code**
+
 https://github.com/022022/Async-Race/tree/main
 
 
-Backend:
+**Backend**
+
 https://github.com/022022/async-race-api
